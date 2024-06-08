@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huawei\\Desktop\\Nesne Tabanl\u0131 Programlama\\G\u0131tHub\\NTP-F\u0130NAL-\u00D6DEV\\Points\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A929CDC4-8C31-4692-B23E-F06FF220C1AD}|Points\\Points.csproj|c:\\users\\huawei\\desktop\\nesne tabanl\u0131 programlama\\g\u0131thub\\ntp-f\u0130nal-\u00F6dev\\points\\points\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A929CDC4-8C31-4692-B23E-F06FF220C1AD}|Points\\Points.csproj|solutionrelative:points\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A929CDC4-8C31-4692-B23E-F06FF220C1AD}|Points\\Points.csproj|C:\\Users\\huawei\\Desktop\\Nesne Tabanl\u0131 Programlama\\G\u0131tHub\\NTP-F\u0130NAL-\u00D6DEV\\Points\\points\\points.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A929CDC4-8C31-4692-B23E-F06FF220C1AD}|Points\\Points.csproj|solutionrelative:points\\points.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A929CDC4-8C31-4692-B23E-F06FF220C1AD}|Points\\Points.csproj|C:\\Users\\huawei\\Desktop\\Nesne Tabanl\u0131 Programlama\\G\u0131tHub\\NTP-F\u0130NAL-\u00D6DEV\\Points\\points\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A929CDC4-8C31-4692-B23E-F06FF220C1AD}|Points\\Points.csproj|solutionrelative:points\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\huawei\\Desktop\\Nesne Tabanl\u0131 Programlama\\G\u0131tHub\\NTP-F\u0130NAL-\u00D6DEV\\Points\\Points\\Form1.cs",
+              "RelativeDocumentMoniker": "Points\\Form1.cs",
+              "ToolTip": "C:\\Users\\huawei\\Desktop\\Nesne Tabanl\u0131 Programlama\\G\u0131tHub\\NTP-F\u0130NAL-\u00D6DEV\\Points\\Points\\Form1.cs*",
+              "RelativeToolTip": "Points\\Form1.cs*",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:39:20.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Points.cs",
+              "DocumentMoniker": "C:\\Users\\huawei\\Desktop\\Nesne Tabanl\u0131 Programlama\\G\u0131tHub\\NTP-F\u0130NAL-\u00D6DEV\\Points\\Points\\Points.cs",
+              "RelativeDocumentMoniker": "Points\\Points.cs",
+              "ToolTip": "C:\\Users\\huawei\\Desktop\\Nesne Tabanl\u0131 Programlama\\G\u0131tHub\\NTP-F\u0130NAL-\u00D6DEV\\Points\\Points\\Points.cs",
+              "RelativeToolTip": "Points\\Points.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:39:07.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\huawei\\Desktop\\Nesne Tabanl\u0131 Programlama\\G\u0131tHub\\NTP-F\u0130NAL-\u00D6DEV\\Points\\Points\\Form1.cs",
+              "RelativeDocumentMoniker": "Points\\Form1.cs",
+              "ToolTip": "C:\\Users\\huawei\\Desktop\\Nesne Tabanl\u0131 Programlama\\G\u0131tHub\\NTP-F\u0130NAL-\u00D6DEV\\Points\\Points\\Form1.cs [Design]*",
+              "RelativeToolTip": "Points\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:38:51.853Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
