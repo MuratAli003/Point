@@ -1,6 +1,6 @@
 <h1>Points</h1>
     <h4>
-        Oluşturulan koordinat düzlemi üzerinde işaretlenin noktanın koordinat bilgisini görselleştirerek verir. 
+        Oluşturulan koordinat düzlemi üzerinde işaretlenen noktanın koordinat bilgisini görselleştirerek verir. 
     </h4>
 
   <h2>Uygulama Önizleme</h2>
